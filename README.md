@@ -14,16 +14,14 @@ This Python script allows you to convert any text into speech using the Google T
 - Python 3.x
 - `gTTS` library
 
-You can install the required libraries using pip:
+You can install the required libraries using pip: pip install gtts
 
-pip install gtts
-
-Follow the prompts to:
+## Follow the prompts to:
 - Enter the text you want to convert to speech.
 - Choose the speech speed (normal or slow).
 - Select the language (default is English).
 - Provide a file name to save the audio.
 - The script will save the audio file and play it automatically.
 
-Acknowledgments
+## Acknowledgments
 This project was inspired by the YouTube channel Techie Coder for the base code, with some additional modifications and enhancements made with some help from documentation and ChatGPT to provide a more interactive user experience.
